@@ -1,0 +1,17 @@
+.keret{
+border:solid 1px black;
+border-radius:15px;
+padding:10px;
+background-color:white;
+margin:5px;
+}
+body{
+background-image:url("http://www.sz0931.com/data/out/55/52581232-mathematics-wallpaper.jpg");
+}
+button{
+color:black;
+}
+a.none{
+text-decoration:none;
+color:black;
+}
