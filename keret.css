@@ -22,3 +22,12 @@ video {
     z-index:0;
 
 } 
+.video-szoveg{
+    position:absolute;
+
+    top:0;
+
+    left:0;
+
+    z-index:1; 
+}
